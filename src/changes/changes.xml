@@ -5,6 +5,7 @@
   </properties>
   <body>
     <release version="4.0.0" date="2026-MM-DD">
+      <action issue="JAVA-84">Byt groupId/artifactId/packagename från mdh till mdu.</action>
       <action>Uppgradera till mdu-oss-parent:67.</action>
       <action>Uppgradera till mdu-driftavbrott-modell:1.7.0.</action>
       <action>Ersätt javax-dependencies för ws.rs med motsvarande jakarta-dependencies.</action>

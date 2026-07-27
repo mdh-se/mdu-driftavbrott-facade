@@ -9,8 +9,8 @@
     <relativePath>../mdu-oss-parent/pom.xml</relativePath>
   </parent>
 
-  <groupId>se.mdh.driftavbrott</groupId>
-  <artifactId>mdh-driftavbrott-facade</artifactId>
+  <groupId>se.mdu.driftavbrott</groupId>
+  <artifactId>mdu-driftavbrott-facade</artifactId>
   <version>4.0.0-SNAPSHOT</version>
 
   <name>${project.groupId}:${project.artifactId}</name>
