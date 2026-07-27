@@ -29,8 +29,8 @@ public class DriftavbrottFacade {
    * Namnet på den property som ska innehålla en URL till den
    * driftavbrott-service som ska användas.
    */
-  public static final String PROPERTY_DRIFTAVBROTT_SERVICE_URL = "se.mdh.driftavbrott.service.url";
-  private static final String PROPERTIES_FILE = "se.mdh.driftavbrott.properties";
+  public static final String PROPERTY_DRIFTAVBROTT_SERVICE_URL = "se.mdu.driftavbrott.service.url";
+  private static final String PROPERTIES_FILE = "se.mdu.driftavbrott.properties";
   private Properties properties;
 
   /**

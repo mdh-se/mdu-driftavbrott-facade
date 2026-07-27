@@ -1,7 +1,7 @@
-# mdh-driftavbrott-facade
+# mdu-driftavbrott-facade
 
-En Java-facade som kan kommunicera med mdh-driftavbrott-service. Den här
-komponenten används av mdh-driftavbrott-filter, men är intressant om du vill
+En Java-facade som kan kommunicera med mdu-driftavbrott-service. Den här
+komponenten används av mdu-driftavbrott-filter, men är intressant om du vill
 integrera driftavbrott i något annat än en webbapplikation.
 
 ## Användning
@@ -27,11 +27,11 @@ Här följer ett exempel på lite Java-kod:
 ## Konfigurering
 
 Klassen `DriftavbrottFacade` behöver konfigurationsfilen
-`se.mdh.driftavbrott.properties` som ska innehålla en URL till
-mdh-driftavbrott-service. Till exempel så här:
+`se.mdu.driftavbrott.properties` som ska innehålla en URL till
+mdu-driftavbrott-service. Till exempel så här:
 
 ```
-se.mdh.driftavbrott.service.url=http://localhost:3301/mdh-driftavbrott/v1
+se.mdu.driftavbrott.service.url=http://localhost:3301/mdh-driftavbrott/v1
 ```
 
 ## Loggning
