@@ -6,7 +6,7 @@ import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.junit.BeforeClass;
 import org.junit.Test;
-import se.mdh.driftavbrott.modell.Driftavbrott;
+import se.mdu.driftavbrott.modell.Driftavbrott;
 
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertNull;
