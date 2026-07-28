@@ -11,7 +11,7 @@
 
   <groupId>se.mdu.driftavbrott</groupId>
   <artifactId>mdu-driftavbrott-facade</artifactId>
-  <version>4.0.1-SNAPSHOT</version>
+  <version>4.0.1</version>
 
   <name>${project.groupId}:${project.artifactId}</name>
   <description>En klient som pratar med driftavbrottstjänstens web service.</description>
@@ -20,7 +20,7 @@
   <scm>
     <connection>scm:git:https://github.com/mdh-se/${project.artifactId}.git</connection>
     <developerConnection>scm:git:https://github.com/mdh-se/${project.artifactId}.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>mdu-driftavbrott-facade-4.0.1</tag>
     <url>https://github.com/mdh-se/${project.artifactId}</url>
   </scm>
 
