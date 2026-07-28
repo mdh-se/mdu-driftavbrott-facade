@@ -5,7 +5,7 @@
   <parent>
     <groupId>se.mdu</groupId>
     <artifactId>mdu-oss-parent</artifactId>
-    <version>67</version>
+    <version>68</version>
     <relativePath>../mdu-oss-parent/pom.xml</relativePath>
   </parent>
 
