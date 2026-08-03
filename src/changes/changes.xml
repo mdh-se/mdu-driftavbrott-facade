@@ -4,6 +4,11 @@
     <title>Ändringar</title>
   </properties>
   <body>
+    <release version="4.0.2" date="2026-08-03">
+      <action>Uppdatera till mdu-oss-parent:70.</action>
+      <action>Använd mdu-oss-bom för dependencyManagement.</action>
+      <action>Uppdatera till mdu-driftavbrott-modell:2.0.0.</action>
+    </release>
     <release version="4.0.1" date="2026-07-28">
       <action>Uppdatera till mdu-oss-parent:68.</action>
     </release>
